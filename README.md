@@ -1,7 +1,8 @@
 ✨ About Me:
 
-Hi there! 👋 I'm Chandan Maity,a final year B.Tech Student and a passionate Data Analyst with a love for extractinging insights from data.
 Welcome to my GitHub profile.....
+
+Hi there! 👋 I'm Chandan Maity,a final year B.Tech Student and a passionate Data Analyst with a love for extractinging insights from raw,messy & unstructured data.
 
 👩‍💻 A Passionate Data Analyst and Certified Data Analyst
 
