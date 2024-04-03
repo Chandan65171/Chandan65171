@@ -14,11 +14,13 @@ Hi there! 👋 I'm Chandan Maity,a final year B.Tech Student and a passionate Da
 
 ⚡ Fun fact: I have a keen eye for details :)
 
+
 📫 To reach me: 
 
-  ➡️Gmail    :chandan17165@gmail.com
+    ➡️Gmail    :chandan17165@gmail.com
   
-  ➡️ Linkedin :https://www.linkedin.com/in/chandan-maity-7221b6227/
+    ➡️ Linkedin :https://www.linkedin.com/in/chandan-maity-7221b6227/
+  
 
 💻 Tech Skills:
 
