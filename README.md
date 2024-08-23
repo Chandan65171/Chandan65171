@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile.....
 
-Hi there! 👋 I'm Chandan Maity,a final year B.Tech Student and a passionate Data Analyst with a love for extractinging insights from raw,messy & unstructured data.
+Hi there! 👋 I'm Chandan Maity,recently graduated in Information Technology and a passionate Data Analyst with a love for extractinging insights from raw,messy & unstructured data.
 
-👩‍💻 A Passionate Data Analyst and Certified Data Analyst
+👩‍💻 A Passionate Data and Certified Data Analyst.
 
 🎯 Passionate about converting data into insights and building frameworks for decision-making.
 
@@ -17,17 +17,17 @@ Hi there! 👋 I'm Chandan Maity,a final year B.Tech Student and a passionate Da
 
 📫 To reach me: 
 
-    ➡️ Gmail    :chandan17165@gmail.com
+    ➡️ Gmail    : chandan17165@gmail.com
   
-    ➡️ Linkedin :https://www.linkedin.com/in/chandan-maity-7221b6227/
+    ➡️ Linkedin : https://www.linkedin.com/in/chandan-maity-7221b6227/
   
 
 💻 Tech Skills:
 
-💠Python
-
-💠Microsoft Power Bi
+💠Microsoft Power BI
 
 💠Microsoft Excel
 
 💠SQL
+
+💠Python
