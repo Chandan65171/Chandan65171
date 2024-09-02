@@ -19,7 +19,7 @@ Hi there! 👋 I'm Chandan Maity,recently graduated in Information Technology an
 
     ➡️ Gmail    : chandan17165@gmail.com
   
-    ➡️ Linkedin : https://www.linkedin.com/in/chandan-maity-7221b6227/
+    ➡️ Linkedin : https://www.linkedin.com/in/chandan-maity/
   
 
 💻 Tech Skills:
